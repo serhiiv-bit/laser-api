@@ -1,0 +1,6 @@
+# Ігнорувати все
+*
+
+# Винятки (не ігнорувати ці файли)
+!.gitignore
+!all_regions_schedule.json
